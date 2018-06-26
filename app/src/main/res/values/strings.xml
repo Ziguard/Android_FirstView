@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Test GEF</string>
+
+    <string name="main_titre_article">Loreum ipsum</string>
+    <string name="main_article">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\n
+        Donec sodales quis magna dapibus mollis. Quisque sapien quam, tempus ut lacus eget, scelerisque pellentesque tellus.
+        \n\n
+        Pellentesque sit amet semper velit. Sed dictum sem eget massa rutrum, et ultrices eros auctor.
+        \n\n
+        Mauris velit tortor, blandit in facilisis et, efficitur eget urna.
+        \n\n
+        Cras sit amet porta purus, et scelerisque dolor. Nunc fermentum eros ac nisi dignissim consequat.
+        \n\n
+        Sed et fermentum turpis. Ut massa nulla, euismod quis justo ut, dictum ultricies magna. Mauris a mauris mauris.
+        \n\n
+        Donec laoreet ex non bibendum consectetur. Praesent lacinia fringilla purus, eu lacinia metus aliquam vel. Proin laoreet justo non urna maximus placerat.
+        Nulla facilisi.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet erat nec lorem cursus luctus. In hac habitasse platea dictumst. Mauris suscipit, purus a scelerisque aliquet, eros orci accumsan orci, in facilisis turpis lacus sodales enim. Vestibulum consequat quam arcu, nec dapibus ipsum tincidunt vitae. Vivamus sed convallis ipsum. Vestibulum interdum nisi eu dolor sodales, at cursus sem bibendum. Phasellus aliquet mauris id ex porttitor dignissim. Nulla facilisi.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. In interdum arcu quis ullamcorper semper. Mauris id orci nec purus maximus maximus. Etiam sapien felis, volutpat ac tempus non, auctor vitae elit. Vestibulum nec iaculis tellus, ut condimentum magna. Sed accumsan faucibus erat, sit amet ultrices felis mollis ac. Nunc metus orci, congue ut elementum sit amet, lacinia eget nisi. Maecenas lacus erat, vestibulum eu eros eget, dictum elementum orci. Pellentesque semper rutrum tellus, vitae vulputate nunc cursus sit amet. Nam ante ipsum, accumsan id finibus scelerisque, aliquam at elit. Nunc neque est, venenatis vel malesuada ut, mattis quis mi. Quisque at pellentesque elit.
+
+Donec tincidunt, mi sed accumsan faucibus, ante purus pharetra dolor, non lobortis nibh neque in erat. Nam id tellus massa. In vitae orci congue, ullamcorper leo nec, dignissim libero. Praesent mollis est quis metus posuere, tempus malesuada ipsum venenatis. Integer ornare elementum luctus. Cras maximus lacinia nisl a lacinia. Aenean nec metus cursus elit feugiat lacinia in eget sem. Cras ac tempus turpis, at maximus lectus. Integer tincidunt cursus libero egestas sollicitudin. In consequat ac nisl at imperdiet. In diam ante, blandit non lacus ac, efficitur faucibus risus. Pellentesque ac turpis sapien.
+
+Aliquam erat volutpat. Mauris ac tempus sem, et tempus purus. In vel porta lacus. Donec nibh metus, dignissim ut fermentum non, suscipit sed metus. Suspendisse placerat nunc eu odio fringilla rhoncus. Pellentesque sit amet lacus non justo ultrices fringilla. Maecenas accumsan, magna eget pellentesque lacinia, tellus lacus consectetur ante, sed hendrerit nisi mi non enim. Donec in tortor tempus, tempor mauris at, ornare sapien. Nullam arcu tortor, pulvinar sed tempor eget, egestas vel nisi. Praesent lacinia dolor in laoreet efficitur.
+
+Quisque varius tortor in nibh luctus venenatis eget in neque. Etiam ullamcorper ipsum vitae lacinia cursus. Fusce vitae ante lacinia, laoreet lorem id, elementum eros. Vestibulum sodales sit amet justo eget semper. Integer commodo rutrum elit nec pellentesque. Donec mauris nisl, semper nec volutpat non, tristique consectetur nulla. Pellentesque vel tincidunt urna, quis condimentum nisl.
+    </string>
+    <string name="main_retour_retour">Retour en haut</string>
+    <string name="main_bienvenue">Welcome !</string>
+    <string name="main_retour">Vous êtes revenu au début de l\'article !</string>
+    <string name="main_bouton_retour">Retour en haut</string>
+
+</resources>
